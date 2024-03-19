@@ -8,7 +8,7 @@
   <br>
  📫 How to reach me: atikhanna.geofficial@gmail.com: "I check my email more frequently than my socials",
   <br>
-
+}
 
 
 ## 🌐 Socials:
