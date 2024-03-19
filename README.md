@@ -2,11 +2,11 @@
 
 # 💫 Atishay.json
 {
- 🔭 Working on a ton of personal projects: "Which get started but seldom run towards completion".
+ -🔭 Working on a ton of personal projects: "Which get started but seldom run towards completion",
  <br>
- 🌱 I’m currently developing projects using Django, MERN & AI/ML(no wonder;): "I mostly copy code",
+ -🌱 I’m currently developing projects using Django, MERN & AI/ML(no wonder;): "I mostly copy code",
   <br>
- 📫 How to reach me: atikhanna.geofficial@gmail.com: "I check my email more frequently than my socials",
+ -📫 How to reach me: atikhanna.geofficial@gmail.com: "I check my email more frequently than my socials",
   <br>
 
 
