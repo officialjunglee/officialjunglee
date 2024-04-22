@@ -4,7 +4,7 @@
 {
  🔭 Working on a ton of personal projects: "Which get started but seldom run towards completion",
  <br>
- 🌱 I’m currently developing projects using Django, MERN & AI/ML(no wonder;): "I mostly copy code",
+ 🌱 I’m an expert in Java, Spring-boot, Python, Django, JavaScript, Angular, MERN & AI/ML(no wonder;): "I mostly copy code",
   <br>
  📫 How to reach me: atikhanna.geofficial@gmail.com: "I check my email more frequently than my socials",
   <br>
