@@ -9,6 +9,8 @@
  📫 How to reach me: atikhanna.geofficial@gmail.com: "I check my email more frequently than my socials",
   <br>
 }
+<br>
+You can access my portfolio by following this link: [Portfolio Link](https://officialjunglee.github.io/profile/)
 
 
 ## 🌐 Socials:
