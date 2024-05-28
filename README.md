@@ -2,11 +2,11 @@
 
 # 💫 Atishay.json
 {
- 🔭 Working on a ton of personal projects: "Which get started but seldom run towards completion",
+ Languages: "Java", "Python", "JavaScript", "SQL", "PL/SQL", "C", "C++",
  <br>
- 🌱 I’m an expert in Java, Spring-boot, Python, Django, JavaScript, Angular, MERN & AI/ML(no wonder;): "I mostly copy code",
+ Tools and Frameworks: "HTML, CSS, Bootstrap, Angular, NodeJS, VueJs, TypeScript, React, Tailwind, Spring Boot, Kafka, Hibernate, JPA, jQuery, JDBC, JUnit, Mockito, Django, Express JS, Azure, AWS, Docker, Jenkins, Kubernetes",
   <br>
- 📫 How to reach me: atikhanna.geofficial@gmail.com: "I check my email more frequently than my socials",
+ How to reach me: : "atikhanna.geofficial@gmail.com",
   <br>
 }
 <br>
